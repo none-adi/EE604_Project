@@ -21,10 +21,9 @@ We benchmark four pretrained architectures:
 
 ## 🍇 Dataset
 
-- **Name:** [Fruit Image Dataset: 22 Classes (Kaggle)](https://www.kaggle.com/datasets)
+- **Name:** [Fruit Image Dataset: 22 Classes (Kaggle)](https://www.kaggle.com/datasets/mdsagorahmed/fruit-image-dataset-22-classes)
 - **Composition:** 22 fruit–ripeness categories (e.g., `ripe_apple`, `unripe_apple`, `ripe_banana`, etc.)
 - **Split:** 70% Train | 15% Validation | 15% Test  
-- **Total Samples:** ~18,000 images  
 - **Image Size:** Resized to 224×224  
 - **Augmentations:**
   - RandomResizedCrop, Rotation, HorizontalFlip
